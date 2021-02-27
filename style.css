@@ -747,10 +747,10 @@ html{
         
     }
     .video-wrapper{
-        width: 80%;
+        width: 95%;
         top: 20%;
         right: auto;
-    height: 50%;
+    height: 45%;
     }
     .section-2,
     .section-3,
@@ -868,7 +868,7 @@ html{
         font-size: 33%;
     }
     .section-3{
-        height: 80vh;
+        height: 70vh;
     }
     .navbar{
         height: 10rem;
@@ -876,10 +876,9 @@ html{
         transition: height 0.5s ;
         animation: navbar 1s 0.5s forwards ;
     }
-    .navbar a{
-        font-size: 3rem;
-    }
-    .navbar span{
+    
+    
+    .navbar a span{
         font-size: 3.5rem;
     }
     .logo{
@@ -887,9 +886,15 @@ html{
         align-items: center;
         top: auto;
     }
+    .logo a {
+        font-size: 3rem;
+    }
     .menue{
         margin-top: 2rem;
 
+    }
+    .nav-link{
+        font-size: 7rem;
     }
     @keyframes navbar{
         0%{
@@ -903,6 +908,7 @@ html{
         font-size: 6.5rem;
     }
 }
+
 
 /* END-RESPONSIVE*/
 
