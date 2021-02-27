@@ -813,6 +813,7 @@ html{
     .section-2-paragraph{
         right: auto;
         font-size: 2rem;
+        bottom: 7rem;
     }
     .banner-paragraph{
         width: 70%;
@@ -906,6 +907,23 @@ html{
     }
     .banner-heading span {
         font-size: 6.5rem;
+    }
+    .pricing-card-heading{
+        font-size: 2.5rem;
+        height: 4rem;
+    }
+    .pricing-card-list span{
+        font-size: 2.5rem;
+    }
+    .pricing-card-list i{
+        font-size: 2.5rem;
+    }
+    
+    .pricing-card-btn{
+        font-size: 2rem;
+        height: 4rem;
+        width: 15rem;
+        
     }
 }
 
